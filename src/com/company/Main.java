@@ -1,7 +1,7 @@
 package com.company;
 import com.vectors.*;
 
-public class Main {
+public class Main{
     public static void main(String[] args) {
 //        printOutMath();
 //
@@ -30,7 +30,9 @@ public class Main {
 //        System.out.println(temp2);
 //        System.out.println(temp3);
 
-
+        InterfaceUser user = new InterfaceUser();
+        user.execFunc();
+        user.print("Another interface call!");
     }
 
     // Some testing...
