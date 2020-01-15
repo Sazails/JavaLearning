@@ -1,2 +1,2 @@
 # JavaLearning
-My java project which contains stuff I am learning and or have learnt.
+My java project containing tests for learning purposes.
